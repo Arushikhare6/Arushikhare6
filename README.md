@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Arushi Khare Banner" />
+</p>
+
 # Hi 👋 I'm Arushi Khare
 
 🎓 Final Year B.Tech Student at **MNNIT Allahabad**
